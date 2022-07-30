@@ -2,7 +2,6 @@
 <h1 align="center">Hi 👋, I'm Rachit Chaudhary</h1>
 <h3 align="center">A passionate learner from India</h3>
 <img align="right" alt="Coding" width="400" src="https://media4.giphy.com/media/1afuwyOsr5E8X9CuRV/200w.webp?cid=ecf05e476gv8pci29337469t7cam2f3uaxy5qklzyc6qfu1o&rid=200w.webp&ct=g">
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rachit6&label=Profile%20views&color=0e75b6&style=flat" alt="rachit6" /> </p>
 
 - 🌱 I’m currently learning **HTML, CSS, JAVA SCRIPT**
